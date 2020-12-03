@@ -1,5 +1,15 @@
 #!/usr/bin/python
 
+'''
+#########################################
+##  					               ##
+##		      MOMIN HUZAIFA		       ##
+##  email: mominhuzaifa@protonmail.ch  ##
+##					                   ##
+########################################
+'''
+
+
 # score predictor of cricket match
 
 def predictor():
