@@ -1,12 +1,8 @@
 #!/usr/bin/python
 
 '''
-#########################################
-##  					               ##
-##		      MOMIN HUZAIFA		       ##
-##  email: mominhuzaifa@protonmail.ch  ##
-##					                   ##
-########################################
+Author: Momin Huzaifa
+email: mominhuzaifa@protonmail.ch
 '''
 
 
